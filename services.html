@@ -677,6 +677,9 @@ p{line-height:1.7}
 /* ── UTILITY ── */
 .text-center{text-align:center}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+
+/* Service card image (added to lift cards out of text-only state) */
+.service-card .card-img,.related-card .card-img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:var(--radius);margin-bottom:6px}
 </style>
 </head>
 
@@ -840,54 +843,63 @@ p{line-height:1.7}
 
     <div class="service-grid">
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Repair_Services_AIRONE_HVAC_Reliable_Cooling_Solutions.webp" alt="Ac Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-repair">AC Repair</a></h3>
         <p>Same-day diagnostic in most areas, flat-rate repairs after the diagnosis, no surprise charges. From $89 diagnostic fee, applied toward repair if you proceed.</p>
         <a href="/ac-repair" class="card-cta">View AC Repair &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Maintenance_and_Tune_Up_Services_AIRONE_HVAC_System_Care.webp" alt="Ac Maintenance services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-maintenance">AC Maintenance</a></h3>
         <p>Annual tune-ups that protect your system from the failure cascade that shortens AC lifespan. According to ACCA, regular maintenance reduces breakdown likelihood by up to 95%.</p>
         <a href="/ac-maintenance" class="card-cta">View AC Maintenance &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Installation_Services_AIRONE_HVAC_New_System_Setup.webp" alt="Ac Installation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-installation">AC Installation</a></h3>
         <p>New AC system installation with Manual J load calculation, AHRI-matched equipment, and permit-included pricing. From $4,000 installed.</p>
         <a href="/ac-installation" class="card-cta">View AC Installation &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Replacement_Services_AIRONE_HVAC_Upgrade_Cooling_System.webp" alt="Ac Replacement services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-replacement">AC Replacement</a></h3>
         <p>Same-week replacement for failed or end-of-life systems with permit, haul-away, and inspection coordination included. Honest repair vs replace assessment first.</p>
         <a href="/ac-replacement" class="card-cta">View AC Replacement &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/Central_AC_Systems_AIRONE_HVAC_Whole_Home_Cooling_Solutions.webp" alt="Central Ac Systems services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/central-ac-systems">Central AC Systems</a></h3>
         <p>Whole-home central AC installation including new ductwork for first-time installs and like-for-like replacement on existing systems. Manual J sized.</p>
         <a href="/central-ac-systems" class="card-cta">View Central AC Systems &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/Split_System_AC_Services_AIRONE_HVAC_Efficient_Cooling_Solutions.webp" alt="Split System Ac services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/split-system-ac">Split System AC</a></h3>
         <p>AHRI-matched split systems  -  outdoor condenser plus indoor air handler  -  installed and replaced for residential and commercial properties. Up to 26 SEER2.</p>
         <a href="/split-system-ac" class="card-cta">View Split System AC &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/Package_Unit_AC_Services_AIRONE_HVAC_All_In_One_Cooling_Systems.webp" alt="Package Unit Ac services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/package-unit-ac">Package Unit AC</a></h3>
         <p>Rooftop and ground-level all-in-one cabinet AC units for flat-roof homes, commercial buildings, and properties where outdoor side-yard space is limited.</p>
         <a href="/package-unit-ac" class="card-cta">View Package Unit AC &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Not_Cooling_Repair_Services_AIRONE_HVAC_Fast_Diagnosis.webp" alt="Ac Not Cooling services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-not-cooling">AC Not Cooling</a></h3>
         <p>If your AC is running but not cooling, the cause is one of six diagnostic categories. AIRONE identifies the failure mode and quotes the repair on the first visit.</p>
         <a href="/ac-not-cooling" class="card-cta">View AC Not Cooling &rarr;</a>
       </article>
 
       <article class="service-card dark">
+        <img class="card-img" src="assets/images/AC_Refrigerant_Recharge_AIRONE_HVAC_Restore_Cooling_Power.webp" alt="Ac Refrigerant Recharge services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ac-refrigerant-recharge">AC Refrigerant Recharge</a></h3>
         <p>EPA Section 608 compliant refrigerant service. Leak detection first, then recharge  -  recharging without finding the leak is a temporary fix that AIRONE will not provide.</p>
         <a href="/ac-refrigerant-recharge" class="card-cta">View Refrigerant Service &rarr;</a>
@@ -918,42 +930,49 @@ p{line-height:1.7}
 
     <div class="service-grid">
       <article class="service-card">
+        <img class="card-img" src="assets/images/Furnace_Repair_Services_AIRONE_HVAC_Reliable_Heating_Solutions.webp" alt="Furnace Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/furnace-repair">Furnace Repair</a></h3>
         <p>Same-day furnace repair across Los Angeles  -  ignition issues, blower failures, heat exchanger inspection, gas valve diagnosis, and full-system safety checks.</p>
         <a href="/furnace-repair" class="card-cta">View Furnace Repair &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Furnace_Maintenance_Services_AIRONE_HVAC_System_Tune_Up.webp" alt="Furnace Maintenance services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/furnace-maintenance">Furnace Maintenance</a></h3>
         <p>Annual furnace tune-up before the November to February heating season including heat exchanger inspection, gas safety check, and ignition system service.</p>
         <a href="/furnace-maintenance" class="card-cta">View Furnace Maintenance &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Furnace_Installation_Services_AIRONE_HVAC_New_Heating_Systems.webp" alt="Furnace Installation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/furnace-installation">Furnace Installation</a></h3>
         <p>New furnace installation including 80% AFUE standard efficiency and 95%+ AFUE high-efficiency condensing furnaces. Permit and inspection included.</p>
         <a href="/furnace-installation" class="card-cta">View Furnace Installation &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Furnace_Replacement_Services_AIRONE_HVAC_Upgrade_Heating.webp" alt="Furnace Replacement services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/furnace-replacement">Furnace Replacement</a></h3>
         <p>Replacement of aging or failed furnaces with same-week scheduling. Combined AC + furnace replacement reduces total labor cost by 15&ndash;25% per ACCA benchmarks.</p>
         <a href="/furnace-replacement" class="card-cta">View Furnace Replacement &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Heater_Repair_Services_AIRONE_HVAC_Fast_Reliable_Heating.webp" alt="Heater Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/heater-repair">Heater Repair</a></h3>
         <p>Repair for all heating system types  -  gas furnaces, electric heaters, heat pumps, and packaged heating units. Diagnostic visit confirms the failure mode.</p>
         <a href="/heater-repair" class="card-cta">View Heater Repair &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Heating_System_Installation_Services_AIRONE_HVAC_Reliable_Setup.webp" alt="Heating Installation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/heating-installation">Heating Installation</a></h3>
         <p>Whole-home heating system installation across all heating types including gas furnace, electric heating, and heat pump configurations.</p>
         <a href="/heating-installation" class="card-cta">View Heating Installation &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Gas_Furnace_Service_AIRONE_HVAC_Safe_Heating_System_Care.webp" alt="Gas Furnace Service services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/gas-furnace-service">Gas Furnace Service</a></h3>
         <p>Specialized gas furnace service including gas valve inspection, heat exchanger crack detection, combustion analysis, and safety shutoff verification.</p>
         <a href="/gas-furnace-service" class="card-cta">View Gas Furnace Service &rarr;</a>
@@ -985,48 +1004,56 @@ p{line-height:1.7}
 
     <div class="service-grid">
       <article class="service-card">
+        <img class="card-img" src="assets/images/Mini_Split_Installation_Services_AIRONE_HVAC_Efficient_Cooling.webp" alt="Mini Split Installation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/mini-split-installation">Mini-Split Installation</a></h3>
         <p>Ductless mini-split installation for homes without ductwork, additions, garages, and zone-specific cooling. Up to 30+ SEER2 efficiency per ENERGY STAR data.</p>
         <a href="/mini-split-installation" class="card-cta">View Mini-Split Installation &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Mini_Split_Repair_Services_AIRONE_HVAC_Reliable_System_Fix.webp" alt="Mini Split Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/mini-split-repair">Mini-Split Repair</a></h3>
         <p>Same-day mini-split repair including indoor head replacement, outdoor condenser service, refrigerant line diagnosis, and inverter board troubleshooting.</p>
         <a href="/mini-split-repair" class="card-cta">View Mini-Split Repair &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Mini_Split_Maintenance_Services_AIRONE_HVAC_System_Tune_Up.webp" alt="Mini Split Maintenance services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/mini-split-maintenance">Mini-Split Maintenance</a></h3>
         <p>Annual mini-split maintenance covering indoor head cleaning, condensate drain service, refrigerant charge verification, and outdoor unit cleaning.</p>
         <a href="/mini-split-maintenance" class="card-cta">View Mini-Split Maintenance &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Heat_Pump_Installation_Services_AIRONE_HVAC_Energy_Efficient_Systems.webp" alt="Heat Pump Installation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/heat-pump-installation">Heat Pump Installation</a></h3>
         <p>Heat pump systems that replace both AC and furnace with a single unit. Qualifies for the federal $2,000 IRS Form 5695 tax credit under the IRA.</p>
         <a href="/heat-pump-installation" class="card-cta">View Heat Pump Installation &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Heat_Pump_Repair_Services_AIRONE_HVAC_Reliable_System_Fix.webp" alt="Heat Pump Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/heat-pump-repair">Heat Pump Repair</a></h3>
         <p>Heat pump repair across all configurations  -  air-source split, packaged, and mini-split heat pumps. Reversing valve, defrost cycle, and refrigerant diagnostics.</p>
         <a href="/heat-pump-repair" class="card-cta">View Heat Pump Repair &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Heat_Pump_Replacement_Services_AIRONE_HVAC_Upgrade_Systems.webp" alt="Heat Pump Replacement services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/heat-pump-replacement">Heat Pump Replacement</a></h3>
         <p>Replacement of aging heat pump systems with current high-efficiency models including IRA-eligible installations for the federal $2,000 tax credit.</p>
         <a href="/heat-pump-replacement" class="card-cta">View Heat Pump Replacement &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Ductless_AC_Systems_AIRONE_HVAC_Efficient_Home_Cooling.webp" alt="Ductless Ac services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/ductless-ac">Ductless AC</a></h3>
         <p>Ductless AC installation for homes where adding ductwork is impractical, for room additions, finished basements, garages, and ADUs.</p>
         <a href="/ductless-ac" class="card-cta">View Ductless AC &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Multi_Zone_Mini_Split_Systems_AIRONE_HVAC_Whole_Home_Comfort.webp" alt="Multi Zone Mini Split services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/multi-zone-mini-split">Multi-Zone Mini-Split</a></h3>
         <p>Multi-zone mini-split systems  -  one outdoor condenser connected to 2 to 8 indoor units for whole-home cooling without ducts and zone-level temperature control.</p>
         <a href="/multi-zone-mini-split" class="card-cta">View Multi-Zone Mini-Split &rarr;</a>
@@ -1059,54 +1086,63 @@ p{line-height:1.7}
 
     <div class="service-grid">
       <article class="service-card">
+        <img class="card-img" src="assets/images/Indoor_Air_Quality_Services_AIRONE_HVAC_Healthy_Home_Air.webp" alt="Indoor Air Quality services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/indoor-air-quality">Indoor Air Quality</a></h3>
         <p>Whole-home IAQ assessment and recommendations for SoCal-specific conditions  -  wildfire smoke, coastal humidity, allergen control, and sealed-home pollutant accumulation.</p>
         <a href="/indoor-air-quality" class="card-cta">View Indoor Air Quality &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Air_Purifier_Systems_AIRONE_HVAC_Improve_Indoor_Air_Quality.webp" alt="Air Purifiers services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/air-purifiers">Air Purifiers</a></h3>
         <p>Whole-home air purifier installation integrated with your HVAC system  -  more effective than portable room units and runs whenever the system blower is on.</p>
         <a href="/air-purifiers" class="card-cta">View Air Purifiers &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/UV_Light_Sanitizers_AIRONE_HVAC_Advanced_Air_Purification.webp" alt="Uv Light Sanitizers services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/uv-light-sanitizers">UV Light Sanitizers</a></h3>
         <p>UV-C light sanitizer installation in the air handler to neutralize bacteria, viruses, and mold spores as air passes the evaporator coil.</p>
         <a href="/uv-light-sanitizers" class="card-cta">View UV Sanitizers &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/HEPA_and_Media_Filters_AIRONE_HVAC_Clean_Air_Solutions.webp" alt="Hepa Media Filters services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/hepa-media-filters">HEPA Media Filters</a></h3>
         <p>HEPA-grade and high-MERV media filter installation for homes with allergy sufferers, wildfire smoke concerns, or pets. Filter changes scheduled with maintenance.</p>
         <a href="/hepa-media-filters" class="card-cta">View HEPA Filters &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Whole_Home_Humidifier_Systems_AIRONE_HVAC_Comfort_Control.webp" alt="Whole Home Humidifier services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/whole-home-humidifier">Whole-Home Humidifier</a></h3>
         <p>Whole-home humidifier installation for dry winter air complaints  -  static electricity, dry skin, hardwood floor cracking, and respiratory irritation.</p>
         <a href="/whole-home-humidifier" class="card-cta">View Humidifiers &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Whole_Home_Dehumidifier_Systems_AIRONE_HVAC_Moisture_Control.webp" alt="Whole Home Dehumidifier services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/whole-home-dehumidifier">Whole-Home Dehumidifier</a></h3>
         <p>Whole-home dehumidifier installation for coastal South Bay and Orange County homes where summer humidity creates mold and comfort issues.</p>
         <a href="/whole-home-dehumidifier" class="card-cta">View Dehumidifiers &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Duct_Cleaning_Services_AIRONE_HVAC_Improve_Air_Quality.webp" alt="Duct Cleaning services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/duct-cleaning">Duct Cleaning</a></h3>
         <p>Whole-home duct cleaning for accumulated dust, allergens, and post-construction debris. Especially valuable before installing a new high-efficiency system.</p>
         <a href="/duct-cleaning" class="card-cta">View Duct Cleaning &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Duct_Sealing_and_Repair_Services_AIRONE_HVAC_Energy_Efficiency.webp" alt="Duct Sealing Repair services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/duct-sealing-repair">Duct Sealing &amp; Repair</a></h3>
         <p>Targeted duct leak repair, joint resealing, and section replacement. Per DOE data, sealing leaky ducts can recover 20 to 30% of conditioned air losses.</p>
         <a href="/duct-sealing-repair" class="card-cta">View Duct Sealing &amp; Repair &rarr;</a>
       </article>
 
       <article class="service-card">
+        <img class="card-img" src="assets/images/Attic_Insulation_Services_AIRONE_HVAC_Improve_Home_Efficiency.webp" alt="Attic Insulation services Los Angeles  -  AIRONE HVAC" loading="lazy" width="480" height="270">
         <h3><a href="/attic-insulation">Attic Insulation</a></h3>
         <p>Attic insulation upgrade improves HVAC efficiency by reducing the heat transfer the system must overcome. R-30 to R-49 recommended for LA County homes.</p>
         <a href="/attic-insulation" class="card-cta">View Attic Insulation &rarr;</a>
