@@ -623,13 +623,6 @@ p{line-height:1.7}
 .faq-answer-inner{padding:0 24px 20px;font-size:14px;color:#444;line-height:1.8}
 .faq-answer-inner a{color:#1a1a1a;text-decoration:underline;text-underline-offset:3px}
 
-/* ── DUAL FORM (S14) ── */
-.dual-form-col{display:flex;flex-direction:column;gap:14px}
-.dual-form-col .form-card{min-height:auto;padding:18px 16px}
-.dual-form-col .form-card iframe{min-height:520px}
-.dual-form-col .form-card-label{font-size:1.2rem}
-.dual-form-col .form-tag{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:#888;margin-bottom:6px;display:block;text-align:center}
-
 /* ── FOOTER ── */
 #site-footer{background:#111111;border-top:1px solid #222;padding:60px 24px 24px}
 .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1.2fr;gap:40px;margin-bottom:48px}
@@ -1644,8 +1637,7 @@ p{line-height:1.7}
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
           Call (323) 471-1037  -  Residential and Commercial
         </a>
-        <a href="#cta-residential" class="btn btn-outline-light btn-lg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="width:15px;height:15px;flex-shrink:0"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Free Residential Quote</a>
-        <a href="#cta-commercial" class="btn btn-outline-light btn-lg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="width:15px;height:15px;flex-shrink:0"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Commercial Service Proposal</a>
+        <a href="#cta-residential" class="btn btn-outline-light btn-lg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="width:15px;height:15px;flex-shrink:0"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Request a Free Quote</a>
       </div>
 
       <div class="trust-bar" aria-label="Credentials">
@@ -1658,42 +1650,12 @@ p{line-height:1.7}
       </div>
     </div>
 
-    <!-- ADD 6: DUAL FORM — residential (standard) + commercial (hidden property_type field) -->
-    <div class="dual-form-col">
-      <div class="form-card" id="cta-residential">
-        <span class="form-tag">Residential</span>
+    <div class="split-form-col" id="cta-residential">
+      <div class="form-card">
         <div class="form-card-header">
           <img src="assets/images/Air_One_Heating___Cooling_inverted.webp" alt="AIRONE Heating and Cooling" width="120" height="34" loading="lazy" style="filter:invert(1)">
-          <p class="form-card-label">Free Residential Quote</p>
+          <p class="form-card-label">Request a Free Quote</p>
         </div>
-        <iframe
-          src="https://connect.siriussys.io/widget/form/fr0tqZYW0y2Z0p5PsulY"
-          style="width:100%;height:100%;border:none;border-radius:3px"
-          id="inline-fr0tqZYW0y2Z0p5PsulY"
-          data-layout="{'id':'INLINE'}"
-          data-trigger-type="alwaysShow"
-          data-trigger-value=""
-          data-activation-type="alwaysActivated"
-          data-activation-value=""
-          data-deactivation-type="neverDeactivate"
-          data-deactivation-value=""
-          data-form-name="Website - Contact Form - CTA"
-          data-height="540"
-          data-layout-iframe-id="inline-fr0tqZYW0y2Z0p5PsulY"
-          data-form-id="fr0tqZYW0y2Z0p5PsulY"
-          title="Website - Contact Form - CTA">
-        </iframe>
-      </div>
-
-      <div class="form-card" id="cta-commercial">
-        <span class="form-tag">Commercial</span>
-        <div class="form-card-header">
-          <img src="assets/images/Air_One_Heating___Cooling_inverted.webp" alt="AIRONE Heating and Cooling" width="120" height="34" loading="lazy" style="filter:invert(1)">
-          <p class="form-card-label">Commercial Service Proposal</p>
-        </div>
-        <!-- ADD 6: Commercial form uses same GHL form ID with a hidden field tagging the submission as commercial.
-             If AIRONE provides a separate commercial-specific GHL form ID, replace data-form-id and src below
-             and remove the hidden input wrapper. -->
         <iframe
           src="https://connect.siriussys.io/widget/form/fr0tqZYW0y2Z0p5PsulY"
           style="width:100%;height:100%;border:none;border-radius:3px"
