@@ -11,3 +11,7 @@ node_modules/
 .cache/
 dist/
 build/
+
+# Local Claude settings
+.claude/
+.claude/settings.local.json
