@@ -75,7 +75,7 @@ Nothing goes live until these are complete.
 
 | # | Page | URL | Status |
 |---:|---|---|---|
-| 18 | Furnace Repair | /furnace-repair | Not started |
+| 18 | Furnace Repair | /furnace-repair | Final content delivered |
 | 19 | Furnace Maintenance | /furnace-maintenance | Not started |
 | 20 | Furnace Installation | /furnace-installation | Not started |
 | 21 | Furnace Replacement | /furnace-replacement | Not started |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 13 |
-| Remaining | 24 |
+| Completed | 14 |
+| Remaining | 23 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 13 | 24 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 14 | 23 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 15 | 174 |
+| Total | 8 weeks | 189 | 16 | 173 |
 
 ---
 
@@ -403,6 +403,7 @@ All 15 .html files confirmed present in the repository.
 | 13 | Split System AC | /split-system-ac | 9.9/10 |
 | 14 | Package Unit AC | /package-unit-ac | Delivered |
 | 15 | AC Not Cooling | /ac-not-cooling | Delivered |
+| 16 | Furnace Repair | /furnace-repair | Delivered |
 
 ---
 
@@ -412,7 +413,6 @@ Following Phase 1 priority order, all revenue-generating service pages should be
 
 | Priority | Page | URL | Reason |
 |---|---|---|---|
-| P1 | Furnace Repair | /furnace-repair | Highest-volume heating query in the LA market |
 | P1 | Furnace Installation | /furnace-installation | High-ticket installation page that pairs with AC Installation |
 | P1 | Mini-Split Installation | /mini-split-installation | Linked from Central AC and Split System pages and supports a high-growth category |
 | P1 | Heat Pump Installation | /heat-pump-installation | Federal tax credit traffic and high-intent installation demand |
@@ -454,15 +454,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Furnace Repair
+Furnace Installation
 
 URL:
 
-/furnace-repair
+/furnace-installation
 
 Reason:
 
-Highest-volume heating query in the LA market and a direct gap on the Phase 1 launch checklist. Furnace Repair pairs naturally with the already-complete AC Repair page and unlocks the broader Heating cluster (Furnace Maintenance, Furnace Installation, Furnace Replacement).
+Pairs directly with Furnace Repair  -  highest-ticket heating installation page. Unlocks the complete Furnace cluster when combined with Furnace Repair.
 
 ---
 
