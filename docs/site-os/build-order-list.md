@@ -78,7 +78,7 @@ Nothing goes live until these are complete.
 | 18 | Furnace Repair | /furnace-repair | Final content delivered |
 | 19 | Furnace Maintenance | /furnace-maintenance | Not started |
 | 20 | Furnace Installation | /furnace-installation | Final content delivered |
-| 21 | Furnace Replacement | /furnace-replacement | Not started |
+| 21 | Furnace Replacement | /furnace-replacement | Final content delivered |
 | 22 | Heater Repair | /heater-repair | Final content delivered |
 | 23 | Heating System Installation | /heating-installation | Not started |
 | 24 | Gas Furnace Service | /gas-furnace-service | Not started |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 16 |
-| Remaining | 21 |
+| Completed | 17 |
+| Remaining | 20 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 16 | 21 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 17 | 20 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 18 | 171 |
+| Total | 8 weeks | 189 | 19 | 170 |
 
 ---
 
@@ -406,6 +406,7 @@ All 15 .html files confirmed present in the repository.
 | 16 | Furnace Repair | /furnace-repair | Delivered |
 | 17 | Furnace Installation | /furnace-installation | Delivered |
 | 18 | Heater Repair | /heater-repair | Delivered |
+| 19 | Furnace Replacement | /furnace-replacement | Delivered |
 
 ---
 
@@ -456,15 +457,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Gas Furnace Service
+Furnace Maintenance
 
 URL:
 
-/gas-furnace-service
+/furnace-maintenance
 
 Reason:
 
-Completes the Heating Supplemental cluster. Gas-specific content targeting SoCalGas service area homeowners and C-20 gas appliance searches.
+Completes the core furnace cluster (repair, installation, replacement, maintenance). Recurring revenue page  -  mirrors ac-maintenance.html structure with maintenance plan upsell and annual tune-up content.
 
 ---
 
