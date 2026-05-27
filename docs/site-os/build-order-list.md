@@ -80,7 +80,7 @@ Nothing goes live until these are complete.
 | 20 | Furnace Installation | /furnace-installation | Final content delivered |
 | 21 | Furnace Replacement | /furnace-replacement | Final content delivered |
 | 22 | Heater Repair | /heater-repair | Final content delivered |
-| 23 | Heating System Installation | /heating-installation | Not started |
+| 23 | Heating System Installation | /heating-installation | Final content delivered |
 | 24 | Gas Furnace Service | /gas-furnace-service | Not started |
 
 ## Mini-Split and Heat Pump Pages
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 17 |
-| Remaining | 20 |
+| Completed | 18 |
+| Remaining | 19 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 17 | 20 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 18 | 19 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 19 | 170 |
+| Total | 8 weeks | 189 | 20 | 169 |
 
 ---
 
@@ -407,6 +407,7 @@ All 15 .html files confirmed present in the repository.
 | 17 | Furnace Installation | /furnace-installation | Delivered |
 | 18 | Heater Repair | /heater-repair | Delivered |
 | 19 | Furnace Replacement | /furnace-replacement | Delivered |
+| 20 | Heating System Installation | /heating-installation | Delivered |
 
 ---
 
@@ -465,7 +466,7 @@ URL:
 
 Reason:
 
-Completes the core furnace cluster (repair, installation, replacement, maintenance). Recurring revenue page  -  mirrors ac-maintenance.html structure with maintenance plan upsell and annual tune-up content.
+Completes the Heating cluster core. Recurring revenue page mirroring ac-maintenance.html  -  annual tune-up, plan upsell, seasonal scheduling content.
 
 ---
 
