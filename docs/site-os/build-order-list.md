@@ -87,7 +87,7 @@ Nothing goes live until these are complete.
 
 | # | Page | URL | Status |
 |---:|---|---|---|
-| 25 | Mini-Split Repair | /mini-split-repair | Not started |
+| 25 | Mini-Split Repair | /mini-split-repair | Final content delivered |
 | 26 | Mini-Split Maintenance | /mini-split-maintenance | Not started |
 | 27 | Mini-Split Installation | /mini-split-installation | Final content delivered |
 | 28 | Heat Pump Installation | /heat-pump-installation | Not started |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 21 |
-| Remaining | 16 |
+| Completed | 22 |
+| Remaining | 15 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 21 | 16 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 22 | 15 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 23 | 166 |
+| Total | 8 weeks | 189 | 24 | 165 |
 
 ---
 
@@ -411,6 +411,7 @@ All 15 .html files confirmed present in the repository.
 | 21 | Furnace Maintenance | /furnace-maintenance | Delivered |
 | 22 | Gas Furnace Service | /gas-furnace-service | Delivered |
 | 23 | Mini-Split Installation | /mini-split-installation | Delivered |
+| 24 | Mini-Split Repair | /mini-split-repair | Delivered |
 
 ---
 
@@ -461,15 +462,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Mini-Split Repair
+Mini-Split Maintenance
 
 URL:
 
-/mini-split-repair
+/mini-split-maintenance
 
 Reason:
 
-Batch 3 Page 2  -  pairs with the just-built /mini-split-installation page and supports the high-growth mini-split cluster with same-day repair intent.
+Batch 3 Page 4  -  completes the mini-split service cluster (installation, repair, maintenance) with recurring-revenue intent and seasonal scheduling content.
 
 ---
 
