@@ -77,7 +77,7 @@ Nothing goes live until these are complete.
 |---:|---|---|---|
 | 18 | Furnace Repair | /furnace-repair | Final content delivered |
 | 19 | Furnace Maintenance | /furnace-maintenance | Not started |
-| 20 | Furnace Installation | /furnace-installation | Not started |
+| 20 | Furnace Installation | /furnace-installation | Final content delivered |
 | 21 | Furnace Replacement | /furnace-replacement | Not started |
 | 22 | Heater Repair | /heater-repair | Not started |
 | 23 | Heating System Installation | /heating-installation | Not started |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 14 |
-| Remaining | 23 |
+| Completed | 15 |
+| Remaining | 22 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 14 | 23 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 15 | 22 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 16 | 173 |
+| Total | 8 weeks | 189 | 17 | 172 |
 
 ---
 
@@ -404,6 +404,7 @@ All 15 .html files confirmed present in the repository.
 | 14 | Package Unit AC | /package-unit-ac | Delivered |
 | 15 | AC Not Cooling | /ac-not-cooling | Delivered |
 | 16 | Furnace Repair | /furnace-repair | Delivered |
+| 17 | Furnace Installation | /furnace-installation | Delivered |
 
 ---
 
@@ -454,15 +455,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Furnace Installation
+Furnace Replacement
 
 URL:
 
-/furnace-installation
+/furnace-replacement
 
 Reason:
 
-Pairs directly with Furnace Repair  -  highest-ticket heating installation page. Unlocks the complete Furnace cluster when combined with Furnace Repair.
+Completes the core furnace cluster with repair and installation. Mirrors ac-replacement.html structure. Highest-ticket replacement decision page in the heating cluster.
 
 ---
 
