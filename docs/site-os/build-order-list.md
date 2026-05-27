@@ -93,7 +93,7 @@ Nothing goes live until these are complete.
 | 28 | Heat Pump Installation | /heat-pump-installation | Final content delivered |
 | 29 | Heat Pump Repair | /heat-pump-repair | Final content delivered |
 | 30 | Heat Pump Replacement | /heat-pump-replacement | Final content delivered |
-| 31 | Ductless AC Systems | /ductless-ac | Not started |
+| 31 | Ductless AC Systems | /ductless-ac | Final content delivered |
 | 32 | Multi-Zone Mini-Split | /multi-zone-mini-split | Not started |
 
 ## IAQ Pages
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 26 |
-| Remaining | 11 |
+| Completed | 27 |
+| Remaining | 10 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 26 | 11 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 27 | 10 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 28 | 161 |
+| Total | 8 weeks | 189 | 29 | 160 |
 
 ---
 
@@ -416,6 +416,7 @@ All 15 .html files confirmed present in the repository.
 | 26 | Heat Pump Installation | /heat-pump-installation | Delivered |
 | 27 | Heat Pump Repair | /heat-pump-repair | Delivered |
 | 28 | Heat Pump Replacement | /heat-pump-replacement | Delivered |
+| 29 | Ductless AC | /ductless-ac | Delivered |
 
 ---
 
@@ -466,15 +467,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Ductless AC
+Multi-Zone Mini-Split
 
 URL:
 
-/ductless-ac
+/multi-zone-mini-split
 
 Reason:
 
-Batch 3 Page 8  -  completes Batch 3 by adding the ductless AC category page. Linked from /mini-split-installation, /heat-pump-installation, and /heat-pump-replacement. High-intent search for no-ductwork cooling solutions across LA County.
+Batch 3 Page 9 (final batch page)  -  completes the ductless cluster by adding the multi-zone configuration page. Linked from /ductless-ac, /mini-split-installation, and /heat-pump-installation as the deeper-funnel page for whole-home ductless coverage with 2-5 indoor zones.
 
 ---
 
