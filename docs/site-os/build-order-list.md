@@ -81,7 +81,7 @@ Nothing goes live until these are complete.
 | 21 | Furnace Replacement | /furnace-replacement | Final content delivered |
 | 22 | Heater Repair | /heater-repair | Final content delivered |
 | 23 | Heating System Installation | /heating-installation | Final content delivered |
-| 24 | Gas Furnace Service | /gas-furnace-service | Not started |
+| 24 | Gas Furnace Service | /gas-furnace-service | Final content delivered |
 
 ## Mini-Split and Heat Pump Pages
 
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 19 |
-| Remaining | 18 |
+| Completed | 20 |
+| Remaining | 17 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 19 | 18 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 20 | 17 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 21 | 168 |
+| Total | 8 weeks | 189 | 22 | 167 |
 
 ---
 
@@ -409,6 +409,7 @@ All 15 .html files confirmed present in the repository.
 | 19 | Furnace Replacement | /furnace-replacement | Delivered |
 | 20 | Heating System Installation | /heating-installation | Delivered |
 | 21 | Furnace Maintenance | /furnace-maintenance | Delivered |
+| 22 | Gas Furnace Service | /gas-furnace-service | Delivered |
 
 ---
 
@@ -459,15 +460,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Gas Furnace Service
+Mini-Split Installation
 
 URL:
 
-/gas-furnace-service
+/mini-split-installation
 
 Reason:
 
-Final remaining page in the Heating Supplemental cluster. Gas-specific content targeting SoCalGas service area homeowners, C-20 gas appliance searches, and combustion analysis intent.
+First page of Batch 3  -  Mini-Split and Heat Pump cluster. Highest-growth HVAC category in SoCal. IRA federal tax credit traffic and strong installation demand.
 
 ---
 
