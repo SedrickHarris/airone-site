@@ -90,7 +90,7 @@ Nothing goes live until these are complete.
 | 25 | Mini-Split Repair | /mini-split-repair | Final content delivered |
 | 26 | Mini-Split Maintenance | /mini-split-maintenance | Final content delivered |
 | 27 | Mini-Split Installation | /mini-split-installation | Final content delivered |
-| 28 | Heat Pump Installation | /heat-pump-installation | Not started |
+| 28 | Heat Pump Installation | /heat-pump-installation | Final content delivered |
 | 29 | Heat Pump Repair | /heat-pump-repair | Not started |
 | 30 | Heat Pump Replacement | /heat-pump-replacement | Not started |
 | 31 | Ductless AC Systems | /ductless-ac | Not started |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 23 |
-| Remaining | 14 |
+| Completed | 24 |
+| Remaining | 13 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 23 | 14 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 24 | 13 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 25 | 164 |
+| Total | 8 weeks | 189 | 26 | 163 |
 
 ---
 
@@ -413,6 +413,7 @@ All 15 .html files confirmed present in the repository.
 | 23 | Mini-Split Installation | /mini-split-installation | Delivered |
 | 24 | Mini-Split Repair | /mini-split-repair | Delivered |
 | 25 | Mini-Split Maintenance | /mini-split-maintenance | Delivered |
+| 26 | Heat Pump Installation | /heat-pump-installation | Delivered |
 
 ---
 
@@ -471,7 +472,7 @@ URL:
 
 Reason:
 
-Batch 3 Page 5  -  pairs with future /heat-pump-installation to anchor the heat pump cluster. Same-day repair intent for the highest-growth HVAC category in SoCal.
+Batch 3 Page 6  -  pairs with the now-live /heat-pump-installation to anchor the heat pump cluster. Same-day repair intent for the highest-growth HVAC category in SoCal.
 
 ---
 
