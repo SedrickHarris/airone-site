@@ -76,7 +76,7 @@ Nothing goes live until these are complete.
 | # | Page | URL | Status |
 |---:|---|---|---|
 | 18 | Furnace Repair | /furnace-repair | Final content delivered |
-| 19 | Furnace Maintenance | /furnace-maintenance | Not started |
+| 19 | Furnace Maintenance | /furnace-maintenance | Final content delivered |
 | 20 | Furnace Installation | /furnace-installation | Final content delivered |
 | 21 | Furnace Replacement | /furnace-replacement | Final content delivered |
 | 22 | Heater Repair | /heater-repair | Final content delivered |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 18 |
-| Remaining | 19 |
+| Completed | 19 |
+| Remaining | 18 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 18 | 19 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 19 | 18 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 20 | 169 |
+| Total | 8 weeks | 189 | 21 | 168 |
 
 ---
 
@@ -408,6 +408,7 @@ All 15 .html files confirmed present in the repository.
 | 18 | Heater Repair | /heater-repair | Delivered |
 | 19 | Furnace Replacement | /furnace-replacement | Delivered |
 | 20 | Heating System Installation | /heating-installation | Delivered |
+| 21 | Furnace Maintenance | /furnace-maintenance | Delivered |
 
 ---
 
@@ -458,15 +459,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Recommended next page:
 
-Furnace Maintenance
+Gas Furnace Service
 
 URL:
 
-/furnace-maintenance
+/gas-furnace-service
 
 Reason:
 
-Completes the Heating cluster core. Recurring revenue page mirroring ac-maintenance.html  -  annual tune-up, plan upsell, seasonal scheduling content.
+Final remaining page in the Heating Supplemental cluster. Gas-specific content targeting SoCalGas service area homeowners, C-20 gas appliance searches, and combustion analysis intent.
 
 ---
 
