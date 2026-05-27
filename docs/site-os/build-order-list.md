@@ -94,7 +94,7 @@ Nothing goes live until these are complete.
 | 29 | Heat Pump Repair | /heat-pump-repair | Final content delivered |
 | 30 | Heat Pump Replacement | /heat-pump-replacement | Final content delivered |
 | 31 | Ductless AC Systems | /ductless-ac | Final content delivered |
-| 32 | Multi-Zone Mini-Split | /multi-zone-mini-split | Not started |
+| 32 | Multi-Zone Mini-Split | /multi-zone-mini-split | Final content delivered |
 
 ## IAQ Pages
 
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 27 |
-| Remaining | 10 |
+| Completed | 28 |
+| Remaining | 9 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 27 | 10 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 28 | 9 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 29 | 160 |
+| Total | 8 weeks | 189 | 30 | 159 |
 
 ---
 
@@ -417,6 +417,7 @@ All 15 .html files confirmed present in the repository.
 | 27 | Heat Pump Repair | /heat-pump-repair | Delivered |
 | 28 | Heat Pump Replacement | /heat-pump-replacement | Delivered |
 | 29 | Ductless AC | /ductless-ac | Delivered |
+| 30 | Multi-Zone Mini-Split | /multi-zone-mini-split | Delivered |
 
 ---
 
@@ -465,17 +466,27 @@ The following data points are placeholders across delivered pages. All page cont
 
 The next build action should focus on Phase 1 pages that are revenue-generating and internally linked from pages already completed.
 
-Recommended next page:
+Batch 3 Complete - All 9 pages delivered. Recommended next builds:
 
-Multi-Zone Mini-Split
+OPTION A: Financing
 
 URL:
 
-/multi-zone-mini-split
+/financing
 
 Reason:
 
-Batch 3 Page 9 (final batch page)  -  completes the ductless cluster by adding the multi-zone configuration page. Linked from /ductless-ac, /mini-split-installation, and /heat-pump-installation as the deeper-funnel page for whole-home ductless coverage with 2-5 indoor zones.
+Phase 1 remaining page  -  referenced across service pages and should be live before campaigns launch. High-conversion enabler for installation and replacement traffic now flowing to the heat pump and mini-split cluster.
+
+OPTION B: Heat Pump Tax Credit Guide
+
+URL:
+
+/heat-pump-tax-credit
+
+Reason:
+
+Phase 5 content page  -  captures federal tax credit search intent and supports the heat pump cluster (installation, repair, replacement) now live. IRA §25C is referenced across 7 of the Batch 3 pages.
 
 ---
 
