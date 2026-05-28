@@ -133,7 +133,7 @@ Trust, authority, and recurring revenue pages.
 
 | # | Page | URL | Status |
 |---:|---|---|---|
-| 42 | Maintenance Plans Overview | /maintenance-plans | Not started |
+| 42 | Maintenance Plans Overview | /maintenance-plans | Final content delivered |
 | 43 | Silver Plan | /maintenance-plans/silver | Not started |
 | 44 | Gold Plan | /maintenance-plans/gold | Not started |
 
@@ -151,8 +151,8 @@ Trust, authority, and recurring revenue pages.
 | Metric | Count |
 |---|---:|
 | Total Pages | 11 |
-| Completed | 2 |
-| Remaining | 9 |
+| Completed | 3 |
+| Remaining | 8 |
 
 ---
 
@@ -374,7 +374,7 @@ Content authority, utility pages, and schema audit.
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
 | Phase 1: Revenue Pages | Week 1 | 37 | 36 | 1 (Financing skipped) |
-| Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
+| Phase 2: Trust and Authority | Week 2 | 11 | 3 | 8 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
@@ -426,6 +426,7 @@ All 15 .html files confirmed present in the repository.
 | 36 | Thank You: Quote | /thank-you-quote | Delivered (noindex) |
 | 37 | Thank You: Contact | /thank-you-contact | Delivered (noindex) |
 | 38 | AC Refrigerant Recharge | /ac-refrigerant-recharge | Delivered |
+| 39 | Maintenance Plans Overview | /maintenance-plans | Delivered |
 
 ---
 
@@ -486,14 +487,14 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Phase 1 revenue pages complete (Financing skipped per owner). Site is eligible for launch review.
 
-Recommended next: Phase 1 launch QA pass  -  review all 36 delivered pages for broken links, pricing placeholders, GBP URL placeholder, and pending image dependencies before going live. After launch QA, proceed to Phase 2.
+Recommended next: **Build 2  -  Silver Maintenance Plan  -  /maintenance-plans/silver  -  maintenance-plans-silver.html** (Batch 5 Phase 2 Build 2). Follows the Maintenance Plans Overview hub just delivered.
 
-Phase 2 priority candidates:
-- Reviews and Testimonials  -  /reviews
-- Maintenance Plans Overview  -  /maintenance-plans
+Phase 2 remaining candidates:
 - Maintenance Plans: Silver  -  /maintenance-plans/silver
 - Maintenance Plans: Gold  -  /maintenance-plans/gold
+- Reviews and Testimonials  -  /reviews
 - Careers  -  /careers
+- HEPA / Media Filters, Whole-Home Humidifier, Whole-Home Dehumidifier, Attic Insulation (IAQ product pages)
 
 ---
 
