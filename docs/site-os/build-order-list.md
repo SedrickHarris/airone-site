@@ -467,23 +467,16 @@ Following Phase 1 priority order, all revenue-generating service pages should be
 
 # Pending Client Inputs Before Publishing
 
-The following data points are placeholders across delivered pages. All page content is final except for these items.
+The following data points are still required before final publishing. All other page content is final.
 
 | Item | Page | Used In |
 |---|---|---|
 | Email address | Contact | NAP block and LocalBusiness schema |
-| AC repair cost ranges | Emergency HVAC, AC Repair | Pricing tables and FAQ Q1 on both pages |
-| AC tune-up flat rate | AC Maintenance | Pricing table and FAQ Q1 |
-| Dual system tune-up price | AC Maintenance | Pricing table |
-| Combined tune-up and duct cleaning price | AC Maintenance | Pricing table and offer section |
-| AC installation cost ranges | AC Installation | Pricing table and FAQ Q1 |
-| AC replacement cost ranges | AC Replacement | Pricing table and FAQ Q1 |
-| Central AC installation cost ranges | Central AC Systems | Pricing table and FAQ Q1 |
-| Split system installation cost ranges | Split System AC | Pricing table and FAQ Q1 |
-| Maintenance plan pricing: Silver and Gold | AC Maintenance and plan pages | Plan tables and schema |
 | Labor warranty terms | Homepage | FAQ Q14 |
 | Owner name, optional | About | Person schema for E-E-A-T |
-| Verified Google Business Profile URL | All service pages | Reviews placeholder block (replaces unverified review content removed in Phase 1) |
+| Verified Google Business Profile URL | All service pages | Replaces "Google reviews coming soon" static block (Decision 2, 2026-05-27) once GBP is live |
+
+> **Note on pricing (Decision 1, 2026-05-27):** All previously listed pricing inputs (AC repair / tune-up / dual / combo / installation / replacement / central AC / split system / Silver and Gold plan prices — 12 line items in total) were **removed from the pending list** per owner decision not to publish prices. Every pricing section across the site has been replaced with a unified "Pricing Available on Request" CTA block linking to the phone line. See `docs/site-os/changelog/CHANGELOG.md` (2026-05-27 entry) for full detail.
 
 ---
 
