@@ -103,7 +103,7 @@ Nothing goes live until these are complete.
 | 33 | IAQ Overview | /indoor-air-quality | Final content delivered |
 | 34 | Air Purifiers | /air-purifiers | Not started |
 | 35 | UV Light Sanitizers | /uv-light-sanitizers | Not started |
-| 36 | Duct Cleaning | /duct-cleaning | Not started |
+| 36 | Duct Cleaning | /duct-cleaning | Final content delivered |
 | 37 | Duct Sealing and Repair | /duct-sealing-repair | Not started |
 
 ## Phase 1 Summary
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 29 |
-| Remaining | 8 |
+| Completed | 30 |
+| Remaining | 7 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 29 | 8 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 30 | 7 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 31 | 158 |
+| Total | 8 weeks | 189 | 32 | 157 |
 
 ---
 
@@ -419,6 +419,7 @@ All 15 .html files confirmed present in the repository.
 | 29 | Ductless AC | /ductless-ac | Delivered |
 | 30 | Multi-Zone Mini-Split | /multi-zone-mini-split | Delivered |
 | 31 | IAQ Overview | /indoor-air-quality | Delivered |
+| 32 | Duct Cleaning | /duct-cleaning | Delivered |
 
 ---
 
@@ -467,27 +468,17 @@ The following data points are placeholders across delivered pages. All page cont
 
 The next build action should focus on Phase 1 pages that are revenue-generating and internally linked from pages already completed.
 
-Batch 3 Complete - All 9 pages delivered. Recommended next builds:
+Batch 4 in progress. 2 of 5 IAQ pages delivered (IAQ Overview + Duct Cleaning). Recommended next build:
 
-OPTION A: Financing
-
-URL:
-
-/financing
-
-Reason:
-
-Phase 1 remaining page  -  referenced across service pages and should be live before campaigns launch. High-conversion enabler for installation and replacement traffic now flowing to the heat pump and mini-split cluster.
-
-OPTION B: Heat Pump Tax Credit Guide
+Duct Sealing and Repair
 
 URL:
 
-/heat-pump-tax-credit
+/duct-sealing-repair
 
 Reason:
 
-Phase 5 content page  -  captures federal tax credit search intent and supports the heat pump cluster (installation, repair, replacement) now live. IRA §25C is referenced across 7 of the Batch 3 pages.
+Batch 4 Build 3 of 5  -  closes the duct-side IAQ cluster. Directly linked from /indoor-air-quality and /duct-cleaning as the companion service. Addresses the 20-30% conditioned air loss cited by DOE that duct cleaning alone does not resolve.
 
 ---
 
