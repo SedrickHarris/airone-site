@@ -135,7 +135,7 @@ Trust, authority, and recurring revenue pages.
 |---:|---|---|---|
 | 42 | Maintenance Plans Overview | /maintenance-plans | Final content delivered |
 | 43 | Silver Plan | /maintenance-plans/silver | Final content delivered |
-| 44 | Gold Plan | /maintenance-plans/gold | Not started |
+| 44 | Gold Plan | /maintenance-plans/gold | Final content delivered |
 
 ## IAQ Product Pages
 
@@ -151,8 +151,8 @@ Trust, authority, and recurring revenue pages.
 | Metric | Count |
 |---|---:|
 | Total Pages | 11 |
-| Completed | 4 |
-| Remaining | 7 |
+| Completed | 5 |
+| Remaining | 6 |
 
 ---
 
@@ -374,7 +374,7 @@ Content authority, utility pages, and schema audit.
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
 | Phase 1: Revenue Pages | Week 1 | 37 | 36 | 1 (Financing skipped) |
-| Phase 2: Trust and Authority | Week 2 | 11 | 4 | 7 |
+| Phase 2: Trust and Authority | Week 2 | 11 | 5 | 6 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
@@ -428,6 +428,7 @@ All 15 .html files confirmed present in the repository.
 | 38 | AC Refrigerant Recharge | /ac-refrigerant-recharge | Delivered |
 | 39 | Maintenance Plans Overview | /maintenance-plans | Delivered |
 | 40 | Silver Maintenance Plan | /maintenance-plans/silver | Delivered |
+| 41 | Gold Maintenance Plan | /maintenance-plans/gold | Delivered |
 
 ---
 
@@ -488,13 +489,15 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Phase 1 revenue pages complete (Financing skipped per owner). Site is eligible for launch review.
 
-Recommended next: **Build 3  -  Gold Maintenance Plan  -  /maintenance-plans/gold  -  maintenance-plans-gold.html** (Batch 5 Phase 2 Build 3). Completes the maintenance plan trio (overview + Silver + Gold).
+Recommended next: **Build 4  -  HEPA and Media Filters  -  /hepa-media-filters  -  hepa-media-filters.html** (Batch 5 Phase 2 Build 4). Maintenance Plans trio (overview + Silver + Gold) complete; next focus is the IAQ product line.
 
 Phase 2 remaining candidates:
-- Maintenance Plans: Gold  -  /maintenance-plans/gold
+- HEPA / Media Filters  -  /hepa-media-filters
+- Whole-Home Humidifier  -  /whole-home-humidifier
+- Whole-Home Dehumidifier  -  /whole-home-dehumidifier
+- Attic Insulation  -  /attic-insulation
 - Reviews and Testimonials  -  /reviews
 - Careers  -  /careers
-- HEPA / Media Filters, Whole-Home Humidifier, Whole-Home Dehumidifier, Attic Insulation (IAQ product pages)
 
 ---
 
