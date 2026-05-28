@@ -144,15 +144,15 @@ Trust, authority, and recurring revenue pages.
 | 45 | HEPA / Media Filters | /hepa-media-filters | Final content delivered |
 | 46 | Whole-Home Humidifier | /whole-home-humidifier | Final content delivered |
 | 47 | Whole-Home Dehumidifier | /whole-home-dehumidifier | Final content delivered |
-| 48 | Attic Insulation | /attic-insulation | Not started |
+| 48 | Attic Insulation | /attic-insulation | Final content delivered |
 
 ## Phase 2 Summary
 
 | Metric | Count |
 |---|---:|
 | Total Pages | 11 |
-| Completed | 8 |
-| Remaining | 3 |
+| Completed | 9 |
+| Remaining | 2 (rows 39 Reviews and 41 Careers, both on hold pending owner content) |
 
 ---
 
@@ -374,7 +374,7 @@ Content authority, utility pages, and schema audit.
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
 | Phase 1: Revenue Pages | Week 1 | 37 | 36 | 1 (Financing skipped) |
-| Phase 2: Trust and Authority | Week 2 | 11 | 8 | 3 |
+| Phase 2: Trust and Authority | Week 2 | 11 | 9 | 2 (Reviews, Careers on hold) |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
@@ -432,6 +432,7 @@ All 15 .html files confirmed present in the repository.
 | 42 | HEPA &amp; Media Filters | /hepa-media-filters | Delivered |
 | 43 | Whole-Home Humidifier | /whole-home-humidifier | Delivered |
 | 44 | Whole-Home Dehumidifier | /whole-home-dehumidifier | Delivered |
+| 45 | Attic Insulation | /attic-insulation | Delivered |
 
 ---
 
@@ -492,12 +493,9 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Phase 1 revenue pages complete (Financing skipped per owner). Site is eligible for launch review.
 
-Recommended next: **Build 7  -  Attic Insulation  -  /attic-insulation  -  attic-insulation.html** (Batch 5 Phase 2 Build 7). Final IAQ-adjacent product page; closes the IAQ product line begun with HEPA / Media Filters.
+**Phase 2 active build scope complete (Batch 5 Phase 2 Builds 1-7 delivered).** Rows 39 (Reviews and Testimonials) and 41 (Careers) remain on hold pending owner-provided content.
 
-Phase 2 remaining candidates:
-- Attic Insulation  -  /attic-insulation
-- Reviews and Testimonials  -  /reviews
-- Careers  -  /careers
+Recommended next: Proceed to **Phase 3  -  LA County city landing pages** (rows 49-130, GHL city template batch build), or return to rows 39 and 41 when owner provides Reviews testimonial content and Careers job-posting content. Confirm with project owner before beginning Phase 3.
 
 ---
 
