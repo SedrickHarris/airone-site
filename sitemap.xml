@@ -175,6 +175,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Indoor Air Quality -->
+  <url>
+    <loc>https://aironeheatingandcoolinginc.com/indoor-air-quality</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Commercial HVAC -->
   <url>
     <loc>https://aironeheatingandcoolinginc.com/commercial-hvac</loc>
