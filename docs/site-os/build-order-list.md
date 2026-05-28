@@ -142,7 +142,7 @@ Trust, authority, and recurring revenue pages.
 | # | Page | URL | Status |
 |---:|---|---|---|
 | 45 | HEPA / Media Filters | /hepa-media-filters | Final content delivered |
-| 46 | Whole-Home Humidifier | /whole-home-humidifier | Not started |
+| 46 | Whole-Home Humidifier | /whole-home-humidifier | Final content delivered |
 | 47 | Whole-Home Dehumidifier | /whole-home-dehumidifier | Not started |
 | 48 | Attic Insulation | /attic-insulation | Not started |
 
@@ -151,8 +151,8 @@ Trust, authority, and recurring revenue pages.
 | Metric | Count |
 |---|---:|
 | Total Pages | 11 |
-| Completed | 6 |
-| Remaining | 5 |
+| Completed | 7 |
+| Remaining | 4 |
 
 ---
 
@@ -374,7 +374,7 @@ Content authority, utility pages, and schema audit.
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
 | Phase 1: Revenue Pages | Week 1 | 37 | 36 | 1 (Financing skipped) |
-| Phase 2: Trust and Authority | Week 2 | 11 | 6 | 5 |
+| Phase 2: Trust and Authority | Week 2 | 11 | 7 | 4 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
@@ -430,6 +430,7 @@ All 15 .html files confirmed present in the repository.
 | 40 | Silver Maintenance Plan | /maintenance-plans/silver | Delivered |
 | 41 | Gold Maintenance Plan | /maintenance-plans/gold | Delivered |
 | 42 | HEPA &amp; Media Filters | /hepa-media-filters | Delivered |
+| 43 | Whole-Home Humidifier | /whole-home-humidifier | Delivered |
 
 ---
 
@@ -490,10 +491,9 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Phase 1 revenue pages complete (Financing skipped per owner). Site is eligible for launch review.
 
-Recommended next: **Build 5  -  Whole-Home Humidifier  -  /whole-home-humidifier  -  whole-home-humidifier.html** (Batch 5 Phase 2 Build 5). Continues the IAQ product line after HEPA / Media Filters.
+Recommended next: **Build 6  -  Whole-Home Dehumidifier  -  /whole-home-dehumidifier  -  whole-home-dehumidifier.html** (Batch 5 Phase 2 Build 6). Pairs with the Humidifier page; coastal SoCal homes typically need moisture removal rather than addition.
 
 Phase 2 remaining candidates:
-- Whole-Home Humidifier  -  /whole-home-humidifier
 - Whole-Home Dehumidifier  -  /whole-home-dehumidifier
 - Attic Insulation  -  /attic-insulation
 - Reviews and Testimonials  -  /reviews
