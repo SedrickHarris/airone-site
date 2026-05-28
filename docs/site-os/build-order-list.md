@@ -104,15 +104,15 @@ Nothing goes live until these are complete.
 | 34 | Air Purifiers | /air-purifiers | Not started |
 | 35 | UV Light Sanitizers | /uv-light-sanitizers | Not started |
 | 36 | Duct Cleaning | /duct-cleaning | Final content delivered |
-| 37 | Duct Sealing and Repair | /duct-sealing-repair | Not started |
+| 37 | Duct Sealing and Repair | /duct-sealing-repair | Final content delivered |
 
 ## Phase 1 Summary
 
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 30 |
-| Remaining | 7 |
+| Completed | 31 |
+| Remaining | 6 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 30 | 7 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 31 | 6 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 32 | 157 |
+| Total | 8 weeks | 189 | 33 | 156 |
 
 ---
 
@@ -420,6 +420,7 @@ All 15 .html files confirmed present in the repository.
 | 30 | Multi-Zone Mini-Split | /multi-zone-mini-split | Delivered |
 | 31 | IAQ Overview | /indoor-air-quality | Delivered |
 | 32 | Duct Cleaning | /duct-cleaning | Delivered |
+| 33 | Duct Sealing and Repair | /duct-sealing-repair | Delivered |
 
 ---
 
@@ -468,17 +469,17 @@ The following data points are placeholders across delivered pages. All page cont
 
 The next build action should focus on Phase 1 pages that are revenue-generating and internally linked from pages already completed.
 
-Batch 4 in progress. 2 of 5 IAQ pages delivered (IAQ Overview + Duct Cleaning). Recommended next build:
+Batch 4 in progress. 3 of 5 IAQ pages delivered (IAQ Overview + Duct Cleaning + Duct Sealing and Repair). Recommended next build:
 
-Duct Sealing and Repair
+Air Purifiers
 
 URL:
 
-/duct-sealing-repair
+/air-purifiers
 
 Reason:
 
-Batch 4 Build 3 of 5  -  closes the duct-side IAQ cluster. Directly linked from /indoor-air-quality and /duct-cleaning as the companion service. Addresses the 20-30% conditioned air loss cited by DOE that duct cleaning alone does not resolve.
+Batch 4 Build 4 of 5  -  the air-side companion to the now-live duct cleaning and sealing pages. Linked from /indoor-air-quality and /duct-cleaning. MERV 13 and whole-home air purifier installation captures the post-wildfire-season search demand referenced across the existing IAQ cluster.
 
 ---
 
