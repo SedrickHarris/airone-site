@@ -253,6 +253,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- LA County City Pages (Phase 3) -->
+  <url>
+    <loc>https://aironeheatingandcoolinginc.com/hvac-agoura-hills</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Maintenance Plans -->
   <url>
     <loc>https://aironeheatingandcoolinginc.com/maintenance-plans</loc>
