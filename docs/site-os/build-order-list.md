@@ -101,7 +101,7 @@ Nothing goes live until these are complete.
 | # | Page | URL | Status |
 |---:|---|---|---|
 | 33 | IAQ Overview | /indoor-air-quality | Final content delivered |
-| 34 | Air Purifiers | /air-purifiers | Not started |
+| 34 | Air Purifiers | /air-purifiers | Final content delivered |
 | 35 | UV Light Sanitizers | /uv-light-sanitizers | Not started |
 | 36 | Duct Cleaning | /duct-cleaning | Final content delivered |
 | 37 | Duct Sealing and Repair | /duct-sealing-repair | Final content delivered |
@@ -111,8 +111,8 @@ Nothing goes live until these are complete.
 | Metric | Count |
 |---|---:|
 | Total Pages | 37 |
-| Completed | 31 |
-| Remaining | 6 |
+| Completed | 32 |
+| Remaining | 5 |
 
 ---
 
@@ -373,12 +373,12 @@ Content authority, utility pages, and schema audit.
 
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
-| Phase 1: Revenue Pages | Week 1 | 37 | 31 | 6 |
+| Phase 1: Revenue Pages | Week 1 | 37 | 32 | 5 |
 | Phase 2: Trust and Authority | Week 2 | 11 | 2 | 9 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
-| Total | 8 weeks | 189 | 33 | 156 |
+| Total | 8 weeks | 189 | 34 | 155 |
 
 ---
 
@@ -421,6 +421,7 @@ All 15 .html files confirmed present in the repository.
 | 31 | IAQ Overview | /indoor-air-quality | Delivered |
 | 32 | Duct Cleaning | /duct-cleaning | Delivered |
 | 33 | Duct Sealing and Repair | /duct-sealing-repair | Delivered |
+| 34 | Air Purifiers | /air-purifiers | Delivered |
 
 ---
 
@@ -469,17 +470,17 @@ The following data points are placeholders across delivered pages. All page cont
 
 The next build action should focus on Phase 1 pages that are revenue-generating and internally linked from pages already completed.
 
-Batch 4 in progress. 3 of 5 IAQ pages delivered (IAQ Overview + Duct Cleaning + Duct Sealing and Repair). Recommended next build:
+Batch 4 in progress. 4 of 5 IAQ pages delivered (IAQ Overview + Duct Cleaning + Duct Sealing and Repair + Air Purifiers). Recommended next build:
 
-Air Purifiers
+UV Light Sanitizers
 
 URL:
 
-/air-purifiers
+/uv-light-sanitizers
 
 Reason:
 
-Batch 4 Build 4 of 5  -  the air-side companion to the now-live duct cleaning and sealing pages. Linked from /indoor-air-quality and /duct-cleaning. MERV 13 and whole-home air purifier installation captures the post-wildfire-season search demand referenced across the existing IAQ cluster.
+Batch 4 Build 5 of 5 (final IAQ batch page)  -  closes the Batch 4 IAQ cluster. Referenced in FAQ and related cards on the now-live air-purifiers page as the biological-contaminant companion to MERV 13/HEPA particle filtration. Completes the whole-home IAQ product set: ducts (cleaning + sealing) + air (purifier + UV sanitizer).
 
 ---
 
