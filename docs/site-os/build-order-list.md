@@ -134,7 +134,7 @@ Trust, authority, and recurring revenue pages.
 | # | Page | URL | Status |
 |---:|---|---|---|
 | 42 | Maintenance Plans Overview | /maintenance-plans | Final content delivered |
-| 43 | Silver Plan | /maintenance-plans/silver | Not started |
+| 43 | Silver Plan | /maintenance-plans/silver | Final content delivered |
 | 44 | Gold Plan | /maintenance-plans/gold | Not started |
 
 ## IAQ Product Pages
@@ -151,8 +151,8 @@ Trust, authority, and recurring revenue pages.
 | Metric | Count |
 |---|---:|
 | Total Pages | 11 |
-| Completed | 3 |
-| Remaining | 8 |
+| Completed | 4 |
+| Remaining | 7 |
 
 ---
 
@@ -374,7 +374,7 @@ Content authority, utility pages, and schema audit.
 | Phase | Timeline | Total Pages | Completed | Remaining |
 |---|---|---:|---:|---:|
 | Phase 1: Revenue Pages | Week 1 | 37 | 36 | 1 (Financing skipped) |
-| Phase 2: Trust and Authority | Week 2 | 11 | 3 | 8 |
+| Phase 2: Trust and Authority | Week 2 | 11 | 4 | 7 |
 | Phase 3: LA County Cities | Weeks 3 to 4 | 82 | 0 | 82 |
 | Phase 4: OC and South Bay Cities | Week 5 | 35 | 0 | 35 |
 | Phase 5: Content and Utility | Weeks 6 to 8 | 24 | 0 | 24 |
@@ -427,6 +427,7 @@ All 15 .html files confirmed present in the repository.
 | 37 | Thank You: Contact | /thank-you-contact | Delivered (noindex) |
 | 38 | AC Refrigerant Recharge | /ac-refrigerant-recharge | Delivered |
 | 39 | Maintenance Plans Overview | /maintenance-plans | Delivered |
+| 40 | Silver Maintenance Plan | /maintenance-plans/silver | Delivered |
 
 ---
 
@@ -487,10 +488,9 @@ The next build action should focus on Phase 1 pages that are revenue-generating 
 
 Phase 1 revenue pages complete (Financing skipped per owner). Site is eligible for launch review.
 
-Recommended next: **Build 2  -  Silver Maintenance Plan  -  /maintenance-plans/silver  -  maintenance-plans-silver.html** (Batch 5 Phase 2 Build 2). Follows the Maintenance Plans Overview hub just delivered.
+Recommended next: **Build 3  -  Gold Maintenance Plan  -  /maintenance-plans/gold  -  maintenance-plans-gold.html** (Batch 5 Phase 2 Build 3). Completes the maintenance plan trio (overview + Silver + Gold).
 
 Phase 2 remaining candidates:
-- Maintenance Plans: Silver  -  /maintenance-plans/silver
 - Maintenance Plans: Gold  -  /maintenance-plans/gold
 - Reviews and Testimonials  -  /reviews
 - Careers  -  /careers
