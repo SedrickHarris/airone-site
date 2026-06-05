@@ -4,7 +4,7 @@ All notable changes to the AIRONE Heating and Cooling website. Newest first.
 
 ---
 
-## 2026-06-04 — Maintenance Plans Suite: Level 5 Builds + Reconciliation (5 commits)
+## 2026-06-04 — Maintenance Plans Suite: Level 5 Builds + Reconciliation (4 commits + pre-build audit)
 
 ### Summary
 Full Level 5 Site Master workflow executed for both maintenance plan detail pages. Both pages built from scratch with research-informed content, GEO targeting, E-E-A-T signals, full schema suite, and AEO FAQ blocks. Overview page reconciled to match verified feature set. All three pages in the maintenance plans suite are now internally consistent and GSC-ready. Sitemap pretty-URL 404 risks resolved.
