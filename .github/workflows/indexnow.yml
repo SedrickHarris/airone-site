@@ -17,28 +17,14 @@ jobs:
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
-          URLS=$(grep -oP '(?<=<loc>)[^<]+' sitemap.xml | python3 -c "
-          import sys, json, urllib.request
-
+          grep -oP '(?<=<loc>)[^<]+' sitemap.xml | python3 -c "
+          import sys, json, os, urllib.request
           urls = [u.strip() for u in sys.stdin if u.strip()]
-          key = '$INDEXNOW_KEY'
+          key = os.environ['INDEXNOW_KEY']
           host = 'aironeheatingandcoolinginc.com'
           key_location = f'https://{host}/{key}.txt'
-
-          payload = json.dumps({
-            'host': host,
-            'key': key,
-            'keyLocation': key_location,
-            'urlList': urls
-          }).encode('utf-8')
-
-          req = urllib.request.Request(
-            'https://api.indexnow.org/indexnow',
-            data=payload,
-            headers={'Content-Type': 'application/json; charset=utf-8'},
-            method='POST'
-          )
-
+          payload = json.dumps({'host': host, 'key': key, 'keyLocation': key_location, 'urlList': urls}).encode('utf-8')
+          req = urllib.request.Request('https://api.indexnow.org/indexnow', data=payload, headers={'Content-Type': 'application/json; charset=utf-8'}, method='POST')
           try:
             with urllib.request.urlopen(req) as res:
               print(f'IndexNow response: {res.status}')
@@ -46,4 +32,4 @@ jobs:
           except urllib.error.HTTPError as e:
             print(f'IndexNow response: {e.code}')
             print(e.read().decode())
-          ")
+          "
