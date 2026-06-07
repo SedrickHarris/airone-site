@@ -4,6 +4,25 @@ All notable changes to the AIRONE Heating and Cooling website. Newest first.
 
 ---
 
+## 2026-06-06 — IndexNow GitHub Actions Integration
+
+**Type:** feat
+**Files:** `.github/workflows/indexnow.yml`, `f93672af4d34479db1514d267820c7be.txt`
+
+### Summary
+GitHub Actions workflow added that auto-submits all sitemap URLs to IndexNow on every push to `main` — covering Bing, Google, and Yandex via `api.indexnow.org`. Key file confirmed live at the Cloudflare root.
+
+**What changed:**
+- GitHub Actions workflow auto-submits all sitemap URLs to IndexNow on every push to `main`
+- Covers Bing, Google, and Yandex via `api.indexnow.org`
+- Key stored in GitHub Secret `INDEXNOW_KEY` — not hardcoded in codebase
+- Key file committed to repo root, confirmed live HTTP 200
+- Node.js 24 compatible: `actions/checkout@v4.2.2`
+- First confirmed run: `c36b855` — 46 URLs submitted
+- 403 resolved: Cloudflare propagation delay, no config changes needed
+
+---
+
 ## 2026-06-04 — Maintenance Plans Suite: Level 5 Builds + Reconciliation (4 commits + pre-build audit)
 
 ### Summary
