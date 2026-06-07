@@ -14,7 +14,7 @@ jobs:
 
       - name: Extract URLs from sitemap and submit to IndexNow
         run: |
-          INDEXNOW_KEY="f93672af4d34479db1514d267820c7be"
+          INDEXNOW_KEY="${{ secrets.INDEXNOW_KEY }}"
           SITE_URL="https://aironeheatingandcoolinginc.com"
 
           echo "Extracting URLs from sitemap.xml..."
