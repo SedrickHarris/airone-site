@@ -26,7 +26,7 @@ jobs:
           RESPONSE=$(curl -s -w "\nHTTP_STATUS:%{http_code}" \
             -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d "{\"host\":\"aironeheatingandcoolinginc.com\",\"key\":\"${INDEXNOW_KEY}\",\"keyLocation\":\"https://aironeheatingandcoolinginc.com/f93672af4d34479db1514d267820c7be.txt\",\"urlList\":${URLS}}")
+            -d "{\"host\":\"aironeheatingandcoolinginc.com\",\"key\":\"${INDEXNOW_KEY}\",\"keyLocation\":\"https://aironeheatingandcoolinginc.com/a62f7721c9d642bdb317f4149bbec181.txt\",\"urlList\":${URLS}}")
 
           HTTP_BODY=$(echo "$RESPONSE" | sed -e 's/HTTP_STATUS:.*//')
           HTTP_STATUS=$(echo "$RESPONSE" | tr -d '\n' | sed -e 's/.*HTTP_STATUS://')
